@@ -8,3 +8,22 @@
 (Here's my discord in case of need: Lhintya)
 
 ⭐️----Study hard, code harder----⭐️
+
+# Projects:
+
+## 42 School Projects:
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+## Original Projects:
+
+### Minecraft Plugins:
+- []()
