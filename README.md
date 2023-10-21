@@ -11,7 +11,7 @@
 
 # Projects:
 
-## 42 School Projects:
+## 🦾---42 School Projects---🦾
 
 - []()
 - []()
@@ -23,7 +23,9 @@
 - []()
 - []()
 
-## Original Projects:
+## 👀---Original Projects---👀
 
 ### Minecraft Plugins:
-- []()
+- [Click Here to see all my plugins!]()
+  - [NoBlockBreakingChallange]()
+  - Developing...
