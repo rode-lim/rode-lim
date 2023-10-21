@@ -13,15 +13,13 @@
 
 ## 🦾---42 School Projects---🦾
 
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Libft](https://github.com/rode-lim/Libft)
+- [Libft_Bonus](https://github.com/rode-lim/bonus_libft)
+- [Ft_Printf](https://github.com/rode-lim/ft_printf)
+- [Born2BeRoot](https://github.com/rode-lim/Born2beroot)
+- [GetNextLine](https://github.com/rode-lim/Get_Next_Line)
+- [Minitalk](https://github.com/rode-lim/minitalk)
+- [PushSwap](https://github.com/rode-lim/push_swap)
 
 ## 👀---Original Projects---👀
 
