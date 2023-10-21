@@ -24,6 +24,6 @@
 ## 👀---Original Projects---👀
 
 ### Minecraft Plugins:
-- [Click Here to see all my plugins!]()
-  - [NoBlockBreakingChallange]()
+- [🧨Click Here to see all my plugins!🧨](https://github.com/rode-lim/MinecraftPlugins)
+  - [NoBlockBreakingChallange⛏](https://github.com/rode-lim/MinecraftPlugins/tree/main/NoBlocks)
   - Developing...
