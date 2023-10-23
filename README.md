@@ -26,5 +26,6 @@
 ### Minecraft Plugins:
 - [🧨Click Here to see all my plugins!🧨](https://github.com/rode-lim/MinecraftPlugins)
   - [NoBlockBreakingChallange⛏](https://github.com/rode-lim/MinecraftPlugins/tree/main/NoBlocks)
-  - [MCToolsRealism](https://github.com/rode-lim/MinecraftPlugins/tree/main/McTools)
+  - [NoBlockPlacingChallange --BETA](https://github.com/rode-lim/MinecraftPlugins/tree/main/NoBlockPlacement)
+  - [MCToolsRealism --Not Released](https://github.com/rode-lim/MinecraftPlugins/tree/main/McTools)
   - Developing...
