@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=rode-lim&color=blue)
+
             🌟 Hi! Welcome to my workspace! 🌟
 
 - My name is Rodrigo Monteiro, mostly known as Lima! 💫
