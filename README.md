@@ -25,16 +25,15 @@
 - [Minitalk👻](https://github.com/rode-lim/minitalk)
 - [PushSwap😡](https://github.com/rode-lim/push_swap)
 
-## 👀---Original Projects---👀
+## 🧨---Java Script---🧨
+
+- Discord Best Bot
+
+## 👀---Scripting Language---👀
 
 ### Minecraft Plugins:
-- [🧨Click Here to see all my plugins!🧨](https://github.com/rode-lim/MinecraftPlugins)
+- [👩‍❤️‍👨Click Here to see all my plugins!👩‍❤️‍👨](https://github.com/rode-lim/MinecraftPlugins)
   - [NoBlockBreakingChallange⛏](https://github.com/rode-lim/MinecraftPlugins/tree/main/NoBlocks)
   - [NoBlockPlacingChallange --BETA](https://github.com/rode-lim/MinecraftPlugins/tree/main/NoBlockPlacement)
   - [MCToolsRealism --Not Released](https://github.com/rode-lim/MinecraftPlugins/tree/main/McTools)
   - Developing...
- 
-## 👩‍❤️‍👨---Game Dev---👩‍❤️‍👨
-
-### Girlfriend Birthday Gift:
-- The Lime Village  1.0;
