@@ -27,7 +27,7 @@
 
 ## 🧨---Java Script---🧨
 
-- Discord Best Bot
+- [Discord Best Bot](https://github.com/rode-lim/discord-bot---Goddess-Of-Time)
 
 ## 👀---Scripting Language---👀
 
