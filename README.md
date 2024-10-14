@@ -29,6 +29,10 @@
 
 - [Discord Best Bot](https://github.com/rode-lim/discord-bot---Goddess-Of-Time)
 
+## ❤️---Main Projects---❤️
+
+- [Fully Working Discord Bot In C](https://github.com/rode-lim/DiscordBotV2)
+
 ## 👀---Scripting Language---👀
 
 ### Minecraft Plugins:
