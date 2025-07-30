@@ -30,6 +30,7 @@
 
 ## ❤️---Main Projects---❤️
 
+- [Working Crack of Paint Tool Sai 2](https://github.com/rode-lim/Sai2CrackWorking2025)
 - [Fully Working Discord Bot In C](https://github.com/rode-lim/DiscordBotV2)
 
 ## 👀---Scripting Language---👀
